@@ -127,11 +127,11 @@ class Admin {
 
 		$dependencies = ( include TIOB_PATH . 'assets/build/app.asset.php' );
 
-		wp_register_style( 'tiob', TIOB_URL . '/assets/build/style-app.css', array( 'wp-components' ), $dependencies['version'] );
+		wp_register_style( 'tiob', TIOB_URL . 'assets/build/style-app.css', array( 'wp-components' ), $dependencies['version'] );
 		wp_style_add_data( 'tiob', 'rtl', 'replace' );
 		wp_enqueue_style( 'tiob' );
 
-		wp_register_script( 'tiob', TIOB_URL . '/assets/build/app.js', array_merge( $dependencies['dependencies'], array( 'updates' ) ), $dependencies['version'], true );
+		wp_register_script( 'tiob', TIOB_URL . 'assets/build/app.js', array_merge( $dependencies['dependencies'], array( 'updates' ) ), $dependencies['version'], true );
 		wp_localize_script( 'tiob', 'tiobDash', apply_filters( 'neve_dashboard_page_data', $this->get_localization() ) );
 		wp_enqueue_script( 'tiob' );
 	}
