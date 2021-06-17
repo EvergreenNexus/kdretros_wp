@@ -1,15 +1,15 @@
-[17/Jun/2021:08:30:06] (I): WordPress Instance Info:
-[17/Jun/2021:08:30:06] (I): Home URL : http://localhost/kdretro
-[17/Jun/2021:08:30:06] (I): Site URL : http://localhost/kdretro
-[17/Jun/2021:08:30:06] (I): WordPress Version : 5.7.2
-[17/Jun/2021:08:30:06] (I): Onboarding Version : 1.1.13
-[17/Jun/2021:08:30:06] (I): Multisite : No
-[17/Jun/2021:08:30:06] (I): Server Info : Apache/2.4.46 (Win64) OpenSSL/1.1.1j PHP/8.0.3
-[17/Jun/2021:08:30:06] (I): PHP Version : 8.0.3
-[17/Jun/2021:08:30:06] (I): HTTPS : No
-[17/Jun/2021:08:30:06] (I): PHP Max Execution Time : 120
-[17/Jun/2021:08:30:06] (I): PHP Max Input Vars : 1000
-[17/Jun/2021:08:30:06] (I): Max Upload Size : 41943040
-[17/Jun/2021:08:30:06] (I): Plugins:
-[17/Jun/2021:08:30:06] (I): [PLUGIN] Templates Patterns Collection : v1.1.13 (ThemeIsle)
-[17/Jun/2021:08:30:06] (I): [PLUGIN] WooCommerce : v5.4.1 (Automattic)
+[17/Jun/2021:08:34:53] (I): WordPress Instance Info:
+[17/Jun/2021:08:34:53] (I): Home URL : http://localhost/kdretro
+[17/Jun/2021:08:34:53] (I): Site URL : http://localhost/kdretro
+[17/Jun/2021:08:34:53] (I): WordPress Version : 5.7.2
+[17/Jun/2021:08:34:53] (I): Onboarding Version : 1.1.13
+[17/Jun/2021:08:34:53] (I): Multisite : No
+[17/Jun/2021:08:34:53] (I): Server Info : Apache/2.4.46 (Win64) OpenSSL/1.1.1j PHP/8.0.3
+[17/Jun/2021:08:34:53] (I): PHP Version : 8.0.3
+[17/Jun/2021:08:34:53] (I): HTTPS : No
+[17/Jun/2021:08:34:53] (I): PHP Max Execution Time : 120
+[17/Jun/2021:08:34:53] (I): PHP Max Input Vars : 1000
+[17/Jun/2021:08:34:53] (I): Max Upload Size : 41943040
+[17/Jun/2021:08:34:53] (I): Plugins:
+[17/Jun/2021:08:34:53] (I): [PLUGIN] Templates Patterns Collection : v1.1.13 (ThemeIsle)
+[17/Jun/2021:08:34:53] (I): [PLUGIN] WooCommerce : v5.4.1 (Automattic)
