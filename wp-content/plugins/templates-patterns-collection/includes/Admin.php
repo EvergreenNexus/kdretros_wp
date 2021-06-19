@@ -146,7 +146,7 @@ class Admin {
 
 		return array(
 			'nonce'         => wp_create_nonce( 'wp_rest' ),
-			'assets'        => TIOB_URL . '/assets/',
+			'assets'        => TIOB_URL . 'assets/',
 			'upgradeURL'    => esc_url( apply_filters( 'neve_upgrade_link_from_child_theme_filter', 'https://themeisle.com/themes/neve/upgrade/?utm_medium=aboutneve&utm_source=freevspro&utm_campaign=neve' ) ),
 			'strings'       => array(
 				/* translators: %s - Theme name */
